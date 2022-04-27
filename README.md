@@ -1,7 +1,7 @@
 # Localhost-Project
 
 # Extract plugins.zip into a plug in folder
-# To run this project
+ To run this project
 # Download it as a zip file
 # Ensure you have Xampp software
 # Extract the zip folder 
